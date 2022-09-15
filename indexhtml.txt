@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device width,</details>, initial-scale=1">
+  <title></title>
+</head>
+<html>
+<head>
+ 
+<title>Ibrahim Andrew's Website</title>
+</head>
+<body>
+<h1>Hello world </h1>
+</name>my name is Ibrahim Andrew Buba<name>
+<h2>contact</h2>
+ +2347012723442,
++2348163572935</h2>
+
+<h3>about us</h3>Cows🐄/bulls sales at mubi Adamawa state</h3>
+<h4>Adress</h4>
+</title>Betso mubi north L.G.A </title>
+<h4>follow us </h4>
+Facebook, WhatsApp, Twitter, Istagram.</h4>
+<h4>Email</h4>
+ibroandy2019@gmail.com</h4>
+
+<h4>Website</h4>
+www.lbrahimweb.com</h4>
+
+<img src="file:///storage/emulated/0/Html/myImage.jpg" alt="image">
+
+
